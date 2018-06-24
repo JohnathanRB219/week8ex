@@ -1,0 +1,9 @@
+/*using the the class high  of div html to style the height and width*/
+.high{
+	height: 100px;
+	width: 100px;
+}
+/* using secoond class of life to style the backgorund color of the div */
+.life{
+	background-color: blue;
+}
